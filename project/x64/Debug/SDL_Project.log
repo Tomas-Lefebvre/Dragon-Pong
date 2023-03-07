@@ -1,0 +1,59 @@
+﻿  SDL_Project.cpp
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(133,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(148,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(163,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(178,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(196,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(197,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(252,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(276,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(277,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(302,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(303,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(469,37): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(471,37): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(528,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(539,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(591,36): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(592,36): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\src\SDL_Project.cpp(604,21): warning C4244: 'argument': conversion from 'Uint64' to 'float', possible loss of data
+  GSLogoState.cpp
+  InputModule.cpp
+  Generating Code...
+  SDL_Project.vcxproj -> C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\x64\Debug\SDL_Project.exe
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2_image\lib\x64\libjpeg-9.dll
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2_image\lib\x64\libpng16-16.dll
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2_image\lib\x64\libtiff-5.dll
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2_image\lib\x64\libwebp-7.dll
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2_image\lib\x64\SDL2_image.dll
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2_image\lib\x64\zlib1.dll
+  6 File(s) copied
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2_ttf\lib\x64\SDL2_ttf.dll
+  1 File(s) copied
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2\lib\x64\SDL2.dll
+  1 File(s) copied
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2_mixer\lib\x64\libFLAC-8.dll
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2_mixer\lib\x64\libmodplug-1.dll
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2_mixer\lib\x64\libmpg123-0.dll
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2_mixer\lib\x64\libogg-0.dll
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2_mixer\lib\x64\libopus-0.dll
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2_mixer\lib\x64\libopusfile-0.dll
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2_mixer\lib\x64\libvorbis-0.dll
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2_mixer\lib\x64\libvorbisfile-3.dll
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\libs\SDL2_mixer\lib\x64\SDL2_mixer.dll
+  9 File(s) copied
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\assets\bgm\littleidea.mp3
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\assets\bgm\porta.mp3
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\assets\fonts\arial.ttf
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\assets\fonts\readme.txt
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\assets\fonts\Saiyan-Sans Left Oblique.ttf
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\assets\fonts\Saiyan-Sans Right Oblique.ttf
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\assets\fonts\saiyan.ttf
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\assets\img\dragonball.png
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\assets\img\freezer.png
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\assets\img\goku.png
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\assets\img\gokuarg.jpg
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\assets\img\gokutrap.jpg
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\assets\img\logo.png
+  C:\Users\lefet\Desktop\UADE\Pong Tomas Lefebvre\SDL_Project-main\project\..\assets\img\torneo.jpg
+  14 File(s) copied
